@@ -9,4 +9,5 @@
 </Property>
 	<Item Name="Engine-FGV.vi" Type="VI" URL="../Engine-FGV.vi"/>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
+	<Item Name="Window.lvclass" Type="LVClass" URL="../Window/Window.lvclass"/>
 </Library>
