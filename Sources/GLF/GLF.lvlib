@@ -8,5 +8,8 @@
 
 </Property>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
+	<Item Name="Toolbox.lvlib" Type="Library" URL="../Toolbox/Toolbox.lvlib">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 	<Item Name="Window.lvclass" Type="LVClass" URL="../Window/Window.lvclass"/>
 </Library>
