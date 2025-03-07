@@ -12,4 +12,5 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Window.lvclass" Type="LVClass" URL="../Window/Window.lvclass"/>
+	<Item Name="WindowBuilder.lvclass" Type="LVClass" URL="../WindowBuilder/WindowBuilder.lvclass"/>
 </Library>

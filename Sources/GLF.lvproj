@@ -14,7 +14,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Benchmarks_DVR.vi" Type="VI" URL="../Benchmarks/Benchmarks_DVR.vi"/>
+		<Item Name="Benchmarks" Type="Folder">
+			<Item Name="Benchmarks_DVR.vi" Type="VI" URL="../Benchmarks/Benchmarks_DVR.vi"/>
+		</Item>
+		<Item Name="Tests" Type="Folder">
+			<Item Name="Tests_misc.vi" Type="VI" URL="../Tests/Tests_misc.vi"/>
+		</Item>
 		<Item Name="GLF.lvlib" Type="Library" URL="../GLF/GLF.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
