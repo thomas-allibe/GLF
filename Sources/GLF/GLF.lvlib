@@ -12,9 +12,13 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="DVRHandler.lvlib" Type="Library" URL="../DVRHandler/DVRHandler.lvlib"/>
 		<Item Name="Toolbox.lvlib" Type="Library" URL="../Toolbox/Toolbox.lvlib"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
+	<Item Name="IAmEngine.lvclass" Type="LVClass" URL="../IAmEngine/IAmEngine.lvclass"/>
 	<Item Name="IAmGLF.lvclass" Type="LVClass" URL="../IAmGLF/IAmGLF.lvclass"/>
+	<Item Name="IUseDVRHandler.lvclass" Type="LVClass" URL="../IUseDVRHandler/IUseDVRHandler.lvclass"/>
+	<Item Name="View.lvclass" Type="LVClass" URL="../View/View.lvclass"/>
 	<Item Name="Window.lvclass" Type="LVClass" URL="../Window/Window.lvclass"/>
 </Library>
