@@ -18,22 +18,4 @@
 		<Item Name="GLF.lvlib:IAmGLF.lvclass" Type="Parent" URL="../../IAmGLF/IAmGLF.lvclass"/>
 	</Item>
 	<Item Name="Community" Type="Folder"/>
-	<Item Name="IAmEngine-CreateDVR-ForIAmGLF.vi" Type="VI" URL="../IAmEngine-CreateDVR-ForIAmGLF.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'P!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!&gt;#5&gt;-2CZM&gt;GRJ9B&amp;*17V&amp;&lt;G&gt;J&lt;G5O&lt;(:D&lt;'&amp;T=Q!.35&amp;N27ZH;7ZF)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!;#5&gt;-2CZM&gt;GRJ9AZ*17V(4%9O&lt;(:D&lt;'&amp;T=Q!!#5F"&lt;5&gt;-2C"J&lt;A!C1(!!%1!"!!=735&amp;N2UR')&amp;*F&gt;(6S&lt;C"/&lt;X2J:GFF=A!!/E"Q!"Y!!"I*2UR',GRW&lt;'FC$EF"&lt;5&gt;-2CZM&gt;G.M98.T!!!535&amp;N2UR')&amp;2P)%.S:7&amp;U:3"%6F)!!$2!=!!?!!!&gt;#5&gt;-2CZM&gt;GRJ9B&amp;*17V&amp;&lt;G&gt;J&lt;G5O&lt;(:D&lt;'&amp;T=Q!-35&amp;N27ZH;7ZF)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!)!!E!#A)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!"!!!!!1!!!!E!!!!!!"!!M!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
-	</Item>
-	<Item Name="IAmEngine-DeleteDVR-ForIAmGLF.vi" Type="VI" URL="../IAmEngine-DeleteDVR-ForIAmGLF.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!&gt;#5&gt;-2CZM&gt;GRJ9B&amp;*17V&amp;&lt;G&gt;J&lt;G5O&lt;(:D&lt;'&amp;T=Q!.35&amp;N27ZH;7ZF)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#"!=!!2!!%!"B6&amp;=H*P=C"3:82V=GYA4G^U;7:J:8)!/E"Q!"Y!!"I*2UR',GRW&lt;'FC$EF"&lt;5&gt;-2CZM&gt;G.M98.T!!!535&amp;N2UR')&amp;2P)%2F&lt;'6U:3"%6F)!!$2!=!!?!!!&gt;#5&gt;-2CZM&gt;GRJ9B&amp;*17V&amp;&lt;G&gt;J&lt;G5O&lt;(:D&lt;'&amp;T=Q!-35&amp;N27ZH;7ZF)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!(!!A!#1)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!"!!!!!1!!!!E!!!!!!"!!I!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
-	</Item>
 </LVClass>

@@ -19,7 +19,5 @@
 		</Item>
 		<Item Name="FGV.vi" Type="VI" URL="../FGV.vi"/>
 	</Item>
-	<Item Name="CreateDVR.vi" Type="VI" URL="../CreateDVR.vi"/>
-	<Item Name="DeleteDVR.vi" Type="VI" URL="../DeleteDVR.vi"/>
 	<Item Name="RegisterEngine.vi" Type="VI" URL="../RegisterEngine.vi"/>
 </Library>
