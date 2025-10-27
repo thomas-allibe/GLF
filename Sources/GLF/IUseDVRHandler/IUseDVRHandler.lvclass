@@ -20,13 +20,14 @@
 	<Item Name="Protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		<Item Name="IAmGLF-DeleteFromStandaloneProcess.vi" Type="VI" URL="../IAmGLF-DeleteFromStandaloneProcess.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!)%"Q!"%!!1!&amp;&amp;56S=G^S)&amp;*F&gt;(6S&lt;C"/&lt;X2J:GFF=A!_1(!!(A!!)AF(4%9O&lt;(:M;7)7366T:5275EBB&lt;G2M:8)O&lt;(:D&lt;'&amp;T=Q!!%5F6=W6%6F*)97ZE&lt;'6S)'FO!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"!!&amp;!!1!"A!(!Q!!?!!!$1A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!!1!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!)%"Q!"%!!1!&amp;&amp;56S=G^S)&amp;*F&gt;(6S&lt;C"/&lt;X2J:GFF=A!_1(!!(A!!)AF(4%9O&lt;(:M;7)7366T:5275EBB&lt;G2M:8)O&lt;(:D&lt;'&amp;T=Q!!%5F6=W6%6F*)97ZE&lt;'6S)'FO!&amp;1!]!!-!!-!"!!%!!1!"!!%!!1!"!!&amp;!!1!"A!(!Q!!?!!!$1A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">33554440</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1074528784</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 		</Item>
 		<Item Name="IAmGLF-SendToStandaloneProcess.vi" Type="VI" URL="../IAmGLF-SendToStandaloneProcess.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'*!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%"!=!!?!!!C#5&gt;-2CZM&gt;GRJ9B:*68.F2&amp;:33'&amp;O:'RF=CZM&gt;G.M98.T!!!3366T:5275EBB&lt;G2M:8)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!;#5&gt;-2CZM&gt;GRJ9AZ*17V(4%9O&lt;(:D&lt;'&amp;T=Q!!#5F"&lt;5&gt;-2C"J&lt;A!A1(!!%1!"!!=61WRB=X-A5G6U&gt;8*O)%ZP&gt;'FG;76S!$Z!=!!?!!!C#5&gt;-2CZM&gt;GRJ9B:*68.F2&amp;:33'&amp;O:'RF=CZM&gt;G.M98.T!!!2366T:5275EBB&lt;G2M:8)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!)!!E$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!*!!!!!!!1!+!!!!!!</Property>
